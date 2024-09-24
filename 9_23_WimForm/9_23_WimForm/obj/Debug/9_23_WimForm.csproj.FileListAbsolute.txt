@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\9_23_WimForm\9_23_WimForm\bin\Debug\9_23_WimForm.exe.config
+C:\Users\Admin\source\repos\9_23_WimForm\9_23_WimForm\bin\Debug\9_23_WimForm.exe
+C:\Users\Admin\source\repos\9_23_WimForm\9_23_WimForm\bin\Debug\9_23_WimForm.pdb
+C:\Users\Admin\source\repos\9_23_WimForm\9_23_WimForm\obj\Debug\9_23_WimForm.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\9_23_WimForm\9_23_WimForm\obj\Debug\_9_23_WimForm.Form1.resources
+C:\Users\Admin\source\repos\9_23_WimForm\9_23_WimForm\obj\Debug\_9_23_WimForm.Properties.Resources.resources
+C:\Users\Admin\source\repos\9_23_WimForm\9_23_WimForm\obj\Debug\9_23_WimForm.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\9_23_WimForm\9_23_WimForm\obj\Debug\9_23_WimForm.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\9_23_WimForm\9_23_WimForm\obj\Debug\9_23_WimForm.exe
+C:\Users\Admin\source\repos\9_23_WimForm\9_23_WimForm\obj\Debug\9_23_WimForm.pdb
